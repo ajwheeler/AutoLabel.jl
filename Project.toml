@@ -1,0 +1,13 @@
+name = "AutoLabel"
+uuid = "432655af-0cd5-47d2-b5f8-f900807af438"
+authors = ["Adam Wheeler <adamwhlr@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+PromptingTools = "670122d1-24a8-4d70-bfce-740807c42192"
+
+[compat]
+julia = "1"
+IJulia = "1"
+PromptingTools = "0.62"
