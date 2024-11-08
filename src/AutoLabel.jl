@@ -41,7 +41,6 @@ function autolabel_current_cell()
         else
             "\n# LLM generated\n" * response.content
         end
-        println("new code: ", new_code)
 
         IJulia.load_string(comment_dropped * new_code, true)
     end
