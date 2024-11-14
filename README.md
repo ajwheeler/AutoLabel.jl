@@ -8,7 +8,7 @@ This is more of a proof-of-concept than a fully-fledged package, but I do use it
 To install AutoLabel.jl, since it's not yet registered in the Julia General Registry, you can install it directly from GitHub using:
 ```
 using Pkg
-Pkg.add(url="https://github.com/adamwhlr/AutoLabel.jl")
+Pkg.add(url="https://github.com/ajwheeler/AutoLabel.jl")
 ```
 
 ## Anthropic API key
